@@ -4,19 +4,17 @@
 
 
 
-## Python
+## markdown
 
+* markdown
 
+## github
 
-## Django
-
-
-
-## SQL
-
-
-
-
-
-## GIT
+* git
+* git_branch
+* git_new_repo
+* git기타
+* git명령어
+* vim
+* gitignore참고사이트
 
