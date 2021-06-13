@@ -58,3 +58,7 @@ for i in range(m+k):
     else:
         print(interval_sum(b,c))
 ```
+
+
+
+참고 코드 : PythonStudy/00_SideStudy/01_Algorithm/04_BIT.py

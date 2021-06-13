@@ -97,5 +97,7 @@ def find_parent(parent, x):
 
 
 
+참고 코드 : PythonStudy/00_SideStudy/01_Algorithm/16_coprime.py
 
+참고 코드 : PythonStudy/00_SideStudy/01_Algorithm/17_coprime_cycle.py
 

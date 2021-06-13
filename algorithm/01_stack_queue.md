@@ -56,3 +56,7 @@ print(queue) #먼저 들어온 순서대로 출력
 queue.reverse() #역순으로 바꾸기
 print(queue) #나중에 들어온 원소부터 출력
 ```
+
+
+
+참고 코드 : PythonStudy/00_SideStudy/01_Algorithm/01_stack_queue.py

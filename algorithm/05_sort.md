@@ -247,3 +247,10 @@ print(sum(a))
 
 ![정렬](05_sort.assets/정렬.png)
 
+
+
+참고 코드 : PythonStudy/00_SideStudy/01_Algorithm/05_sort.py
+
+참고 코드 : PythonStudy/00_SideStudy/01_Algorithm/06_quick_sort.py
+
+참고 코드 : PythonStudy/00_SideStudy/01_Algorithm/07_sort_exam1.py

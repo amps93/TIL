@@ -47,3 +47,6 @@ for i in range(n):
     print(res[i])
 ```
 
+
+
+참고 코드 : PythonStudy/00_SideStudy/01_Algorithm/02_priority_queue.py
