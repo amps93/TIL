@@ -61,6 +61,13 @@
 
 
 
+## Django
+
+* Django
+* TODO-LIST 만들기
+
+
+
 ## 분석 실습
 
 * tip data 분석
