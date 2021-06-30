@@ -1,6 +1,6 @@
 # ARIMA
 
-* 
+
 
 ## ARIMA란?
 
