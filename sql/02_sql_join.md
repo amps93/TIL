@@ -52,7 +52,7 @@
 
 * 왼쪽의 테이블의 행을 기준으로 출력
 
-* Topic 테이블을 왼쪽에 놓고 author 테이블을 조인하는데 topic.author_id 와 author.aid를 기준으로 하겠다.
+* Topic 테이블을 왼쪽에 놓고 author 테이블을 조인하는데 topic.author_id 와 author.aid를 기준으로 
 * JOIN하려는 행이 비어있으면 NULL값 표시
 
 `SELECT * FROM topic LEFT JOIN author ON topic.author_id = author.aid;`
