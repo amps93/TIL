@@ -24,7 +24,7 @@
 ## git을 시작하기 전에
 
 * <strong>절대 홈디렉토리(c:/user/amps)에 git init 쓰지말것 (홈디렉토리를 마스터 폴더로 지정하지 말것)</strong>
-* 혹시 했다면 홈폴더에서 `rm -r .git` 사용해 git 삭제
+* 혹시 했다면 홈폴더에서 `rm -rf .git` 사용해 git 삭제
 
 ## git 동작 순서
 
